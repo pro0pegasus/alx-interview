@@ -4,13 +4,13 @@
 
 def pascal_triangle(n):
     '''
-    Function to find Pascal Triangle ints
+    Func to find Pascal Triangle ints
 
         Params:
-            n (int): number of row's of Pascal's triangle
+            n (int): num of row's of Pascal's triangle
 
         Returns:
-            pascal_triangle (list): Binary string of sum of a and b
+            pascal_triangle (list): Binary str of sum of a and b
     '''
     pascal_triangle = list()
 
