@@ -1,1 +1,1 @@
-minimum operations
+This file is about nqueens
