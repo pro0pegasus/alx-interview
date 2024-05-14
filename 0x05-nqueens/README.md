@@ -1,1 +1,1 @@
-This file is about nqueens
+This file is about NQUEENS
